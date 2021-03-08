@@ -20,4 +20,4 @@
 
 > :Collapse label=Members
 > 
-> [NN](/docs/members/nn)
+> [Edisson Prieto](/docs/members/EdissonPrieto)
