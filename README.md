@@ -1,3 +1,3 @@
 # Visual Computing Template
 
-Hacking instructions.
+Site deployed on https://Edprietov.github.io/vc/.
